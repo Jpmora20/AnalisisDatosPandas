@@ -1,0 +1,43 @@
+PANDAS:
+Libreria de python que permite realizar analisis de datos.
+
+Se debe tener en cuenta que los datos deben estar centralizados, ya sea en un excel o una base de datos
+
+Analizar datos es extraer informacion, que nos permita hacer la medicion de algo
+
+Pandas da los datos tabulados, filas, columnas
+
+Ventajas de usar Pandas:
+
+1. Facil de usar.
+2. Visualizar los datos atravez de graficos junto con Matploit.
+
+Estructura de datos:
+
+1. Listas.[]
+2. Diccionaros.{}
+
+Control + Shift + P --> Crear cuaderno de notas
+
+SERIES: 
+
+Unidimensionales
+Las series almacenan cualquier tipo de datos.
+
+ATRIBUTOS DE SERIES
+1.size: Devuelve el tamaño de la serie.
+2.dtypes: Devuelve el tipo de datos de la serie.
+3.index: Duelve la posicion inicial, final secuencia.
+
+FUNCIONES DE SERIES
+1..max() Devuelve el valor mayor
+2.min() Devuelve el valor menor
+3.mean() Devuelve el valo medio
+4.std()
+5.median()
+DATAFRAME:
+
+Es un conjunto de series, lo que quiere decir que son bidimensionales.
+Almacenan cualquier tipo de dato 
+
+Analizar datos = Extraer informacion -> Estructura de datos unidimensional llamada series.
